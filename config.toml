@@ -1,4 +1,14 @@
 baseURL = "https://yaoshangtseng.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "YakuShou"
 theme = "m10c"
+
+[params]
+  author = "YakuShou"
+  description = "Hi, I'm YakuShou"
+[[params.social]]
+  name = "github"
+  url = "https://github.com/YaoShangTseng"
+[[params.social]]
+  name = "facebook"
+  url = "https://www.facebook.com/yakushou730"
